@@ -3,7 +3,7 @@
 
 int main() {
     // Print a message to the console
-    printf("Hello, World!\n");
+    printf("izan\n");
 
     // Return success status
     return 0;
