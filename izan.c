@@ -2,9 +2,12 @@
 #include <stdlib.h>
 
 int main() {
+    int i ;
     // Print a message to the console
-    printf("Hello, World!\n");
-
+    for(i = 0; i < 10; i++) {
+        printf("izan\n");
+    }
+    
     // Return success status
     return 0;
 }
